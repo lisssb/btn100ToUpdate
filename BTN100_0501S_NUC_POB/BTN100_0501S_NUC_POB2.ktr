@@ -317,7 +317,7 @@
     <fileNameInField>N</fileNameInField>
     <fileNameField/>
     <file>
-      <name>&#47;home&#47;liss&#47;Escritorio&#47;btn100&#47;BTN100_0501S_NUC_POB&#47;BTN100_0501S_NUC_POB2</name>
+      <name>&#47;home&#47;liss&#47;TFM&#47;btn100&#47;BTN100_0501S_NUC_POB&#47;BTN100_0501S_NUC_POB2</name>
       <is_command>N</is_command>
       <do_not_open_new_file_init>N</do_not_open_new_file_init>
       <extention>ttl</extention>
@@ -394,7 +394,7 @@
            <method>none</method>
            <schema_name/>
            </partitioning>
-    <filename>&#47;home&#47;liss&#47;Escritorio&#47;btn100&#47;BTN100_0501S_NUC_POB&#47;BTN100_0501S_NUC_POB.shp</filename>
+    <filename>&#47;home&#47;liss&#47;TFM&#47;btn100&#47;BTN100_0501S_NUC_POB&#47;BTN100_0501S_NUC_POB.shp</filename>
     <isfilenameinfield>N</isfilenameinfield>
     <filenamefield/>
     <limit>0</limit>

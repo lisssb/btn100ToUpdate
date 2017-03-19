@@ -715,7 +715,7 @@
     <fileNameInField>N</fileNameInField>
     <fileNameField/>
     <file>
-      <name>&#47;home&#47;liss&#47;TFM&#47;btn100&#47;BTN100_0505P_ALOJ_OCIO&#47;BTN100_0505P_ALOJ_OCIO.</name>
+      <name>&#47;home&#47;liss&#47;TFM&#47;btn100&#47;BTN100_0505P_ALOJ_OCIO&#47;BTN100_0505P_ALOJ_OCIO</name>
       <is_command>N</is_command>
       <do_not_open_new_file_init>N</do_not_open_new_file_init>
       <extention>ttl</extention>
@@ -747,7 +747,7 @@
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1019</xloc>
+      <xloc>1020</xloc>
       <yloc>259</yloc>
       <draw>Y</draw>
       </GUI>
@@ -792,7 +792,7 @@
            <method>none</method>
            <schema_name/>
            </partitioning>
-    <filename>&#47;home&#47;liss&#47;Escritorio&#47;btn100&#47;BTN100_0505P_ALOJ_OCIO&#47;BTN100_0505P_ALOJ_OCIO.shp</filename>
+    <filename>&#47;home&#47;liss&#47;TFM&#47;btn100&#47;BTN100_0505P_ALOJ_OCIO&#47;BTN100_0505P_ALOJ_OCIO.shp</filename>
     <isfilenameinfield>N</isfilenameinfield>
     <filenamefield/>
     <limit>0</limit>

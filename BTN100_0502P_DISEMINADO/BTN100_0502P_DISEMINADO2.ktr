@@ -53,7 +53,7 @@
   <notepads>
   </notepads>
   <order>
-  <hop> <from>Valor Java Script Modificado</from><to>Selecciona&#47;Renombra valores</to><enabled>Y</enabled> </hop>  <hop> <from>Selecciona&#47;Renombra valores</from><to>SRS Transformation</to><enabled>Y</enabled> </hop>  <hop> <from>SRS Transformation</from><to>tripleGEO</to><enabled>Y</enabled> </hop>  <hop> <from>tripleGEO</from><to>Text file output</to><enabled>Y</enabled> </hop>  <hop> <from>Shapefile File Input</from><to>Filtrar filas</to><enabled>Y</enabled> </hop>  <hop> <from>Filtrar filas</from><to>Valor Java Script Modificado</to><enabled>Y</enabled> </hop>  <hop> <from>Filtrar filas</from><to>Dummy Plugin</to><enabled>Y</enabled> </hop>  </order>
+  <hop> <from>Valor Java Script Modificado</from><to>Selecciona&#47;Renombra valores</to><enabled>Y</enabled> </hop>  <hop> <from>SRS Transformation</from><to>tripleGEO</to><enabled>Y</enabled> </hop>  <hop> <from>tripleGEO</from><to>Text file output</to><enabled>Y</enabled> </hop>  <hop> <from>Shapefile File Input</from><to>Filtrar filas</to><enabled>Y</enabled> </hop>  <hop> <from>Filtrar filas</from><to>Valor Java Script Modificado</to><enabled>Y</enabled> </hop>  <hop> <from>Filtrar filas</from><to>Dummy Plugin</to><enabled>Y</enabled> </hop>  <hop> <from>Mapeo de Valores</from><to>SRS Transformation</to><enabled>Y</enabled> </hop>  <hop> <from>Selecciona&#47;Renombra valores</from><to>Mapeo de Valores</to><enabled>Y</enabled> </hop>  </order>
   <step>
     <name>Dummy Plugin</name>
     <type>DummyPlugin</type>
@@ -103,6 +103,53 @@
     </step>
 
   <step>
+    <name>Mapeo de Valores</name>
+    <type>ValueMapper</type>
+    <description/>
+    <distribute>Y</distribute>
+    <copies>1</copies>
+         <partitioning>
+           <method>none</method>
+           <schema_name/>
+           </partitioning>
+    <field_to_use>CAPITAL</field_to_use>
+    <target_field/>
+    <non_match_default/>
+    <fields>
+      <field>
+        <source_value>0001</source_value>
+        <target_value>&lt;http:&#47;&#47;geo.linkeddata.es&#47;kos&#47;poblaciones-construcciones&#47;tipo-de-capital&#47;municipio&gt;</target_value>
+      </field>
+      <field>
+        <source_value>0000</source_value>
+        <target_value>&lt;http:&#47;&#47;geo.linkeddata.es&#47;kos&#47;poblaciones-construcciones&#47;tipo-de-capital&#47;no-capital&gt;</target_value>
+      </field>
+      <field>
+        <source_value>0011</source_value>
+        <target_value/>
+      </field>
+      <field>
+        <source_value>0101</source_value>
+        <target_value/>
+      </field>
+      <field>
+        <source_value>0111</source_value>
+        <target_value/>
+      </field>
+      <field>
+        <source_value>1111</source_value>
+        <target_value/>
+      </field>
+    </fields>
+     <cluster_schema/>
+ <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
+      <xloc>409</xloc>
+      <yloc>407</yloc>
+      <draw>Y</draw>
+      </GUI>
+    </step>
+
+  <step>
     <name>SRS Transformation</name>
     <type>SRSTransformation</type>
     <description/>
@@ -129,7 +176,7 @@
     </target_srs>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>386</xloc>
+      <xloc>600</xloc>
       <yloc>407</yloc>
       <draw>Y</draw>
       </GUI>
@@ -245,7 +292,7 @@
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>821</xloc>
+      <xloc>1035</xloc>
       <yloc>407</yloc>
       <draw>Y</draw>
       </GUI>
@@ -278,41 +325,23 @@ else{
 }
 
 
-&#47;&#47;here we match the product type
-if(CAPITAL.match(&#47;^0000&#47;)){
-	CAPITAL = &quot;no es capital&quot;
-}
-else if (CAPITAL.match(&#47;^0001&#47;)){
-	CAPITA = &quot;capital de un municipio&quot;
-}
-else if (CAPITAL.match(&#47;^0011&#47;)){
-	CAPITAL = &quot;capital de provincia&quot;
-}
-else if (CAPITAL.match(&#47;^0101&#47;)){
-	CAPITA = &quot;capital de comunidad autónoma pero no de provincia&quot;
-}
-else if (CAPITAL.match(&#47;^0111&#47;)){
-	CAPITAL = &quot;capital de comunidad autónoma&quot;
-}
-else{
-	CAPITAL = &quot;capital de nación&quot;
-}</jsScript_script>
+var type=&quot;&lt;http:&#47;&#47;geo.linkeddata.es&#47;ontology&#47;Diseminado&gt;&quot;</jsScript_script>
       </jsScript>    </jsScripts>    <fields>      <field>        <name>FECHA_ALTA</name>
         <rename>FECHA_ALTA</rename>
         <type>String</type>
         <length>-1</length>
         <precision>-1</precision>
         <replace>Y</replace>
-      </field>      <field>        <name>CAPITAL</name>
-        <rename>CAPITAL</rename>
+      </field>      <field>        <name>type</name>
+        <rename>type</rename>
         <type>String</type>
         <length>-1</length>
         <precision>-1</precision>
-        <replace>Y</replace>
+        <replace>N</replace>
       </field>    </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
       <xloc>180</xloc>
-      <yloc>270</yloc>
+      <yloc>275</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -409,10 +438,17 @@ else{
 		<show>YES</show>
 		<column_shp>ETIQUETA</column_shp>
 		</columns>
+		<columns>
+		<column>type</column>
+		<prefix>rdf</prefix>
+		<uri>http:&#47;&#47;www.w3.org&#47;1999&#47;02&#47;22-rdf-syntax-ns#</uri>
+		<show>YES</show>
+		<column_shp>type</column_shp>
+		</columns>
 		</columns>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>561</xloc>
+      <xloc>775</xloc>
       <yloc>407</yloc>
       <draw>Y</draw>
       </GUI>

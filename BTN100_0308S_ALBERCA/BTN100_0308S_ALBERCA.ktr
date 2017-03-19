@@ -68,7 +68,7 @@
 		<feature>Balsa</feature>
 		<ontologyns>http://geo.linkeddata.es/ontology/</ontologyns>
 		<ontologynsprefix>geoes</ontologynsprefix>
-		<resourcens>http://geo.linkeddata.es/resource/Balsa/</resourcens>
+		<resourcens>http://geo.linkeddata.es/recurso/Balsa/</resourcens>
 		<resourcensprefix>georesource</resourcensprefix>
 		<language>es</language>
 		<pathcsv>null</pathcsv>
@@ -155,7 +155,7 @@
 		<feature>Estanque</feature>
 		<ontologyns>http://geo.linkeddata.es/ontology/</ontologyns>
 		<ontologynsprefix>geoes</ontologynsprefix>
-		<resourcens>http://geo.linkeddata.es/resource/Estanque/</resourcens>
+		<resourcens>http://geo.linkeddata.es/recurso/Estanque/</resourcens>
 		<resourcensprefix>georesource</resourcensprefix>
 		<language>es</language>
 		<pathcsv>null</pathcsv>

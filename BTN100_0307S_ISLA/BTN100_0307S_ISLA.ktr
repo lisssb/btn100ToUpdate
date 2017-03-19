@@ -68,7 +68,7 @@
 		<feature>IslaFluvial</feature>
 		<ontologyns>http://geo.linkeddata.es/ontology/</ontologyns>
 		<ontologynsprefix>geoes</ontologynsprefix>
-		<resourcens>http://geo.linkeddata.es/resource/IslaFluvial/</resourcens>
+		<resourcens>http://geo.linkeddata.es/recurso/IslaFluvial/</resourcens>
 		<resourcensprefix>georesource</resourcensprefix>
 		<language>es</language>
 		<pathcsv>null</pathcsv>
@@ -169,7 +169,7 @@
 		<feature>IslaMaritima</feature>
 		<ontologyns>http://geo.linkeddata.es/ontology/</ontologyns>
 		<ontologynsprefix>geoes</ontologynsprefix>
-		<resourcens>http://geo.linkeddata.es/resource/IslaMaritima/</resourcens>
+		<resourcens>http://geo.linkeddata.es/recurso/IslaMaritima/</resourcens>
 		<resourcensprefix>georesource</resourcensprefix>
 		<language>es</language>
 		<pathcsv>null</pathcsv>

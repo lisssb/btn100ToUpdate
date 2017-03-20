@@ -10,7 +10,7 @@
 @prefix foaf:  <http://xmlns.com/foaf/0.1/> .
 @prefix dc:    <http://purl.org/dc/terms/> .
 
-georesource:_182  a               geoes:EstacionPermanenteGPS ;
+georesource:182  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "182" ;
         geoes:altitudElipsoidal   "296.112"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -21,15 +21,15 @@ georesource:_182  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "182"^^xsd:int ;
         dc:title                  "Estación Permanente de Zaragoza"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_182/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/182/geometry> ;
         geo:lat                   "41.633396"^^xsd:float ;
         geo:long                  "-0.8821646"^^xsd:float .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_151/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/151/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-16.550789263999206 28.41825309826386)"^^geosparql:wktLiteral .
 
-georesource:_154  a               geoes:EstacionPermanenteGPS ;
+georesource:154  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "154" ;
         geoes:altitudElipsoidal   "87.79"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -40,11 +40,11 @@ georesource:_154  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "154"^^xsd:int ;
         dc:title                  "Estación Permanente de Vigo"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_154/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/154/geometry> ;
         geo:lat                   "42.18398"^^xsd:float ;
         geo:long                  "-8.813071"^^xsd:float .
 
-georesource:_167  a               geoes:EstacionPermanenteGPS ;
+georesource:167  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "167" ;
         geoes:altitudElipsoidal   "854.969"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -55,23 +55,23 @@ georesource:_167  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "167"^^xsd:int ;
         dc:title                  "Estación Permanente de Salamanca"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_167/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/167/geometry> ;
         geo:lat                   "40.94508"^^xsd:float ;
         geo:long                  "-5.4958634"^^xsd:float .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_174/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/174/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-2.4594496669999875 36.85253132456234)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_147/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/147/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-16.60685960999923 28.223447612941857)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_171/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/171/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-3.088629160999992 40.52489772787589)"^^geosparql:wktLiteral .
 
-georesource:_161  a               geoes:EstacionPermanenteGPS ;
+georesource:161  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "161" ;
         geoes:altitudElipsoidal   "52.475"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -82,15 +82,15 @@ georesource:_161  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "161"^^xsd:int ;
         dc:title                  "Estación Permanente de Ceuta"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_161/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/161/geometry> ;
         geo:lat                   "35.891968"^^xsd:float ;
         geo:long                  "-5.3063936"^^xsd:float .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_144/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/144/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-17.893829843999004 28.763870145834098)"^^geosparql:wktLiteral .
 
-georesource:_174  a               geoes:EstacionPermanenteGPS ;
+georesource:174  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "174" ;
         geoes:altitudElipsoidal   "127.517"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -101,11 +101,11 @@ georesource:_174  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "174"^^xsd:int ;
         dc:title                  "Estación Permanente de Almería"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_174/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/174/geometry> ;
         geo:lat                   "36.85253"^^xsd:float ;
         geo:long                  "-2.4594498"^^xsd:float .
 
-georesource:_146  a               geoes:EstacionPermanenteGPS ;
+georesource:146  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "146" ;
         geoes:altitudElipsoidal   "1468.143"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -116,11 +116,11 @@ georesource:_146  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "146"^^xsd:int ;
         dc:title                  "Estación Permanente de Vilaflor"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_146/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/146/geometry> ;
         geo:lat                   "28.158894"^^xsd:float ;
         geo:long                  "-16.63693"^^xsd:float .
 
-georesource:_187  a               geoes:EstacionPermanenteGPS ;
+georesource:187  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "187" ;
         geoes:altitudElipsoidal   "112.718"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -131,11 +131,11 @@ georesource:_187  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "187"^^xsd:int ;
         dc:title                  "Estación Permanente de Girona"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_187/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/187/geometry> ;
         geo:lat                   "42.041584"^^xsd:float ;
         geo:long                  "2.855129"^^xsd:float .
 
-georesource:_159  a               geoes:EstacionPermanenteGPS ;
+georesource:159  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "159" ;
         geoes:altitudElipsoidal   "436.527"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -146,23 +146,23 @@ georesource:_159  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "159"^^xsd:int ;
         dc:title                  "Estación Permanente de Cáceres"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_159/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/159/geometry> ;
         geo:lat                   "39.47886"^^xsd:float ;
         geo:long                  "-6.341785"^^xsd:float .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_167/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/167/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-5.495863564001345 40.94508121414253)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_164/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/164/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-4.180254366999991 38.705509920445834)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_161/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/161/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-5.30639355000095 35.89196954543389)"^^geosparql:wktLiteral .
 
-georesource:_181  a               geoes:EstacionPermanenteGPS ;
+georesource:181  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "181" ;
         geoes:altitudElipsoidal   "450.391"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -173,11 +173,11 @@ georesource:_181  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "181"^^xsd:int ;
         dc:title                  "Estación Permanente de Rioja 1"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_181/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/181/geometry> ;
         geo:lat                   "42.46424"^^xsd:float ;
         geo:long                  "-2.426097"^^xsd:float .
 
-georesource:_153  a               geoes:EstacionPermanenteGPS ;
+georesource:153  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "153" ;
         geoes:altitudElipsoidal   "62.063"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -188,11 +188,11 @@ georesource:_153  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "153"^^xsd:int ;
         dc:title                  "Estación Permanente de Palma de Mallorca"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_153/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/153/geometry> ;
         geo:lat                   "39.552624"^^xsd:float ;
         geo:long                  "2.6245508"^^xsd:float .
 
-georesource:_166  a               geoes:EstacionPermanenteGPS ;
+georesource:166  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "166" ;
         geoes:altitudElipsoidal   "970.254"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -203,15 +203,15 @@ georesource:_166  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "166"^^xsd:int ;
         dc:title                  "Estación Permanente de León"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_166/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/166/geometry> ;
         geo:lat                   "42.588406"^^xsd:float ;
         geo:long                  "-5.6509757"^^xsd:float .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_187/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/187/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (2.855129108000023 42.04158561772075)"^^geosparql:wktLiteral .
 
-georesource:_179  a               geoes:EstacionPermanenteGPS ;
+georesource:179  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "179" ;
         geoes:altitudElipsoidal   "956.187"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -222,27 +222,27 @@ georesource:_179  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "179"^^xsd:int ;
         dc:title                  "Estación Permanente de Teruel"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_179/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/179/geometry> ;
         geo:lat                   "40.3505"^^xsd:float ;
         geo:long                  "-1.1243011"^^xsd:float .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_184/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/184/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (0.3589229440000118 40.39567267478894)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_181/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/181/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-2.426097018999991 42.464240950897256)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_153/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/153/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (2.6245508720000146 39.5526237191661)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_150/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/150/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-16.499681966999226 28.30806502908176)"^^geosparql:wktLiteral .
 
-georesource:_160  a               geoes:EstacionPermanenteGPS ;
+georesource:160  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "160" ;
         geoes:altitudElipsoidal   "49.938"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -253,11 +253,11 @@ georesource:_160  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "160"^^xsd:int ;
         dc:title                  "Estación Permanente de Tarifa"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_160/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/160/geometry> ;
         geo:lat                   "36.008507"^^xsd:float ;
         geo:long                  "-5.6026206"^^xsd:float .
 
-georesource:_173  a               geoes:EstacionPermanenteGPS ;
+georesource:173  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "173" ;
         geoes:altitudElipsoidal   "99.287"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -268,11 +268,11 @@ georesource:_173  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "173"^^xsd:int ;
         dc:title                  "Estación Permanente de Cantabria"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_173/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/173/geometry> ;
         geo:lat                   "43.471977"^^xsd:float ;
         geo:long                  "-3.7980664"^^xsd:float .
 
-georesource:_145  a               geoes:EstacionPermanenteGPS ;
+georesource:145  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "145" ;
         geoes:altitudElipsoidal   "58.543"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -283,11 +283,11 @@ georesource:_145  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "145"^^xsd:int ;
         dc:title                  "Estación Permanente de Los Cristianos"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_145/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/145/geometry> ;
         geo:lat                   "28.047163"^^xsd:float ;
         geo:long                  "-16.718525"^^xsd:float .
 
-georesource:_186  a               geoes:EstacionPermanenteGPS ;
+georesource:186  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "186" ;
         geoes:altitudElipsoidal   "84.825"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -298,11 +298,11 @@ georesource:_186  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "186"^^xsd:int ;
         dc:title                  "Estación Permanente de Barcelona"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_186/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/186/geometry> ;
         geo:lat                   "41.405415"^^xsd:float ;
         geo:long                  "2.0041623"^^xsd:float .
 
-georesource:_158  a               geoes:EstacionPermanenteGPS ;
+georesource:158  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "158" ;
         geoes:altitudElipsoidal   "587.445"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -313,27 +313,27 @@ georesource:_158  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "158"^^xsd:int ;
         dc:title                  "Estación Permanente de Zafra"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_158/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/158/geometry> ;
         geo:lat                   "38.42601"^^xsd:float ;
         geo:long                  "-6.4100423"^^xsd:float .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_177/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/177/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-0.4812325109999909 38.338917694105845)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_149/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/149/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-16.596963999999222 28.264722023010105)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_146/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/146/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-16.636929723256188 28.158893031756193)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_143/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/143/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-17.97887439099917 27.709415243090824)"^^geosparql:wktLiteral .
 
-georesource:_180  a               geoes:EstacionPermanenteGPS ;
+georesource:180  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "180" ;
         geoes:altitudElipsoidal   "77.592"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -344,11 +344,11 @@ georesource:_180  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "180"^^xsd:int ;
         dc:title                  "Estación Permanente de Valencia"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_180/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/180/geometry> ;
         geo:lat                   "39.480824"^^xsd:float ;
         geo:long                  "-0.33765095"^^xsd:float .
 
-georesource:_152  a               geoes:EstacionPermanenteGPS ;
+georesource:152  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "152" ;
         geoes:altitudElipsoidal   "51.787"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -359,11 +359,11 @@ georesource:_152  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "152"^^xsd:int ;
         dc:title                  "Estación Permanente de Santa Cruz"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_152/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/152/geometry> ;
         geo:lat                   "28.477182"^^xsd:float ;
         geo:long                  "-16.241158"^^xsd:float .
 
-georesource:_165  a               geoes:EstacionPermanenteGPS ;
+georesource:165  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "165" ;
         geoes:altitudElipsoidal   "476.611"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -374,15 +374,15 @@ georesource:_165  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "165"^^xsd:int ;
         dc:title                  "Estación Permanente de Lugo"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_165/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/165/geometry> ;
         geo:lat                   "42.99308"^^xsd:float ;
         geo:long                  "-7.5446854"^^xsd:float .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_169/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/169/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-3.709523119999992 40.44583587582293)"^^geosparql:wktLiteral .
 
-georesource:_178  a               geoes:EstacionPermanenteGPS ;
+georesource:178  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "178" ;
         geoes:altitudElipsoidal   "59.885"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -393,23 +393,23 @@ georesource:_178  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "178"^^xsd:int ;
         dc:title                  "Estación Permanente de Ibiza"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_178/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/178/geometry> ;
         geo:lat                   "38.911243"^^xsd:float ;
         geo:long                  "1.4489622"^^xsd:float .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_166/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/166/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-5.650975505001455 42.58840542094411)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_163/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/163/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-4.721111094001301 37.915604533692736)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_160/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/160/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-5.602620431000881 36.00850804057589)"^^geosparql:wktLiteral .
 
-georesource:_172  a               geoes:EstacionPermanenteGPS ;
+georesource:172  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "172" ;
         geoes:altitudElipsoidal   "844.477"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -420,11 +420,11 @@ georesource:_172  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "172"^^xsd:int ;
         dc:title                  "Estación Permanente de Aranda de Duero"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_172/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/172/geometry> ;
         geo:lat                   "41.665813"^^xsd:float ;
         geo:long                  "-3.7425995"^^xsd:float .
 
-georesource:_144  a               geoes:EstacionPermanenteGPS ;
+georesource:144  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "144" ;
         geoes:altitudElipsoidal   "2199.221"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -435,11 +435,11 @@ georesource:_144  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "144"^^xsd:int ;
         dc:title                  "Estación Permanente de La Palma"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_144/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/144/geometry> ;
         geo:lat                   "28.76387"^^xsd:float ;
         geo:long                  "-17.89383"^^xsd:float .
 
-georesource:_185  a               geoes:EstacionPermanenteGPS ;
+georesource:185  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "185" ;
         geoes:altitudElipsoidal   "181.803"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -450,11 +450,11 @@ georesource:_185  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "185"^^xsd:int ;
         dc:title                  "Estación Permanente de Fraga"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_185/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/185/geometry> ;
         geo:lat                   "41.509457"^^xsd:float ;
         geo:long                  "0.32415769"^^xsd:float .
 
-georesource:_157  a               geoes:EstacionPermanenteGPS ;
+georesource:157  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "157" ;
         geoes:altitudElipsoidal   "81.86"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -465,27 +465,27 @@ georesource:_157  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "157"^^xsd:int ;
         dc:title                  "Estación Permanente de Huelva"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_157/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/157/geometry> ;
         geo:lat                   "37.199978"^^xsd:float ;
         geo:long                  "-6.920299"^^xsd:float .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_159/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/159/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-6.341785017000912 39.47886071610711)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_183/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/183/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-0.7265277829999852 42.567337675936336)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_156/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/156/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-2.951655782999996 35.28118543466755)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_180/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/180/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-0.3376509439999913 39.48082516310869)"^^geosparql:wktLiteral .
 
-georesource:_151  a               geoes:EstacionPermanenteGPS ;
+georesource:151  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "151" ;
         geoes:altitudElipsoidal   "54.475"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -496,15 +496,15 @@ georesource:_151  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "151"^^xsd:int ;
         dc:title                  "Estación Permanente de El Puerto"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_151/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/151/geometry> ;
         geo:lat                   "28.418253"^^xsd:float ;
         geo:long                  "-16.550789"^^xsd:float .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_179/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/179/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-1.1243010329999867 40.350497302757994)"^^geosparql:wktLiteral .
 
-georesource:_164  a               geoes:EstacionPermanenteGPS ;
+georesource:164  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "164" ;
         geoes:altitudElipsoidal   "743.384"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -515,19 +515,19 @@ georesource:_164  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "164"^^xsd:int ;
         dc:title                  "Estación Permanente de Almodóvar Campo"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_164/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/164/geometry> ;
         geo:lat                   "38.70551"^^xsd:float ;
         geo:long                  "-4.1802545"^^xsd:float .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_176/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/176/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-1.8564039399999976 38.97791516268752)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_148/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/148/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-16.804166599999196 28.32777772311434)"^^geosparql:wktLiteral .
 
-georesource:_177  a               geoes:EstacionPermanenteGPS ;
+georesource:177  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "177" ;
         geoes:altitudElipsoidal   "60.356"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -538,19 +538,19 @@ georesource:_177  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "177"^^xsd:int ;
         dc:title                  "Estación Permanente de Alicante"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_177/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/177/geometry> ;
         geo:lat                   "38.338917"^^xsd:float ;
         geo:long                  "-0.48123252"^^xsd:float .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_173/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/173/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-3.798066263999992 43.47197725921182)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_145/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/145/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-16.718524668999247 28.04716233065017)"^^geosparql:wktLiteral .
 
-georesource:_149  a               geoes:EstacionPermanenteGPS ;
+georesource:149  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "149" ;
         geoes:altitudElipsoidal   "2509.824"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -561,15 +561,15 @@ georesource:_149  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "149"^^xsd:int ;
         dc:title                  "Estación Permanente de CRAJ MRajada"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_149/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/149/geometry> ;
         geo:lat                   "28.264723"^^xsd:float ;
         geo:long                  "-16.596964"^^xsd:float .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_170/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/170/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-3.0901974639999916 40.52377801387512)"^^geosparql:wktLiteral .
 
-georesource:_171  a               geoes:EstacionPermanenteGPS ;
+georesource:171  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "171" ;
         geoes:altitudElipsoidal   "972.778"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -580,11 +580,11 @@ georesource:_171  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "171"^^xsd:int ;
         dc:title                  "Estación Permanente de Yebes"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_171/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/171/geometry> ;
         geo:lat                   "40.5249"^^xsd:float ;
         geo:long                  "-3.0886292"^^xsd:float .
 
-georesource:_143  a               geoes:EstacionPermanenteGPS ;
+georesource:143  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "143" ;
         geoes:altitudElipsoidal   "897.412"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -595,11 +595,11 @@ georesource:_143  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "143"^^xsd:int ;
         dc:title                  "Estación Permanente de El Pinar"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_143/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/143/geometry> ;
         geo:lat                   "27.709415"^^xsd:float ;
         geo:long                  "-17.978874"^^xsd:float .
 
-georesource:_184  a               geoes:EstacionPermanenteGPS ;
+georesource:184  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "184" ;
         geoes:altitudElipsoidal   "108.591"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -610,11 +610,11 @@ georesource:_184  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "184"^^xsd:int ;
         dc:title                  "Estación Permanente de Peñíscola"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_184/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/184/geometry> ;
         geo:lat                   "40.39567"^^xsd:float ;
         geo:long                  "0.35892296"^^xsd:float .
 
-georesource:_156  a               geoes:EstacionPermanenteGPS ;
+georesource:156  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "156" ;
         geoes:altitudElipsoidal   "88.851"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -625,15 +625,15 @@ georesource:_156  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "156"^^xsd:int ;
         dc:title                  "Estación Permanente de Melilla"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_156/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/156/geometry> ;
         geo:lat                   "35.281185"^^xsd:float ;
         geo:long                  "-2.9516559"^^xsd:float .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_162/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/162/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-4.393532847001268 36.726112187419425)"^^geosparql:wktLiteral .
 
-georesource:_169  a               geoes:EstacionPermanenteGPS ;
+georesource:169  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "169" ;
         geoes:altitudElipsoidal   "766.92"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -644,11 +644,11 @@ georesource:_169  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "169"^^xsd:int ;
         dc:title                  "Estación Permanente de IGNE"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_169/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/169/geometry> ;
         geo:lat                   "40.445835"^^xsd:float ;
         geo:long                  "-3.7095232"^^xsd:float .
 
-georesource:_150  a               geoes:EstacionPermanenteGPS ;
+georesource:150  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "150" ;
         geoes:altitudElipsoidal   "2417.483"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -659,15 +659,15 @@ georesource:_150  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "150"^^xsd:int ;
         dc:title                  "Estación Permanente de Izaña"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_150/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/150/geometry> ;
         geo:lat                   "28.308065"^^xsd:float ;
         geo:long                  "-16.499681"^^xsd:float .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_186/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/186/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (2.0041624110000105 41.40541595640619)"^^geosparql:wktLiteral .
 
-georesource:_163  a               geoes:EstacionPermanenteGPS ;
+georesource:163  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "163" ;
         geoes:altitudElipsoidal   "202.082"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -678,19 +678,19 @@ georesource:_163  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "163"^^xsd:int ;
         dc:title                  "Estación Permanente de Córdoba"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_163/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/163/geometry> ;
         geo:lat                   "37.915604"^^xsd:float ;
         geo:long                  "-4.7211113"^^xsd:float .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_158/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/158/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-6.410042347000818 38.42601112918812)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_155/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/155/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-8.398935414000276 43.36438082018541)"^^geosparql:wktLiteral .
 
-georesource:_176  a               geoes:EstacionPermanenteGPS ;
+georesource:176  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "176" ;
         geoes:altitudElipsoidal   "751.736"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -701,15 +701,15 @@ georesource:_176  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "176"^^xsd:int ;
         dc:title                  "Estación Permanente de Albacete"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_176/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/176/geometry> ;
         geo:lat                   "38.977917"^^xsd:float ;
         geo:long                  "-1.856404"^^xsd:float .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_152/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/152/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-16.241156746999234 28.4771826423612)"^^geosparql:wktLiteral .
 
-georesource:_148  a               geoes:EstacionPermanenteGPS ;
+georesource:148  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "148" ;
         geoes:altitudElipsoidal   "1053.553"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -720,15 +720,15 @@ georesource:_148  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "148"^^xsd:int ;
         dc:title                  "Estación Permanente de Erjos"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_148/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/148/geometry> ;
         geo:lat                   "28.327778"^^xsd:float ;
         geo:long                  "-16.804167"^^xsd:float .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_178/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/178/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (1.4489622190000138 38.91124534562925)"^^geosparql:wktLiteral .
 
-georesource:_170  a               geoes:EstacionPermanenteGPS ;
+georesource:170  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "170" ;
         geoes:altitudElipsoidal   "975.367"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -739,15 +739,15 @@ georesource:_170  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "170"^^xsd:int ;
         dc:title                  "Estación Permanente de YEBES 1"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_170/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/170/geometry> ;
         geo:lat                   "40.523777"^^xsd:float ;
         geo:long                  "-3.0901976"^^xsd:float .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_175/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/175/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-2.8700078859999922 39.50320895512668)"^^geosparql:wktLiteral .
 
-georesource:_183  a               geoes:EstacionPermanenteGPS ;
+georesource:183  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "183" ;
         geoes:altitudElipsoidal   "738.94"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -758,15 +758,15 @@ georesource:_183  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "183"^^xsd:int ;
         dc:title                  "Estación Permanente de JACA"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_183/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/183/geometry> ;
         geo:lat                   "42.567337"^^xsd:float ;
         geo:long                  "-0.7265278"^^xsd:float .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_172/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/172/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-3.7425995469999886 41.66581455054196)"^^geosparql:wktLiteral .
 
-georesource:_155  a               geoes:EstacionPermanenteGPS ;
+georesource:155  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "155" ;
         geoes:altitudElipsoidal   "66.918"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -777,11 +777,11 @@ georesource:_155  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "155"^^xsd:int ;
         dc:title                  "Estación Permanente de A Coruña"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_155/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/155/geometry> ;
         geo:lat                   "43.36438"^^xsd:float ;
         geo:long                  "-8.398935"^^xsd:float .
 
-georesource:_168  a               geoes:EstacionPermanenteGPS ;
+georesource:168  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "168" ;
         geoes:altitudElipsoidal   "808.967"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -792,19 +792,19 @@ georesource:_168  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "168"^^xsd:int ;
         dc:title                  "Estación Permanente de Sonseca"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_168/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/168/geometry> ;
         geo:lat                   "39.67535"^^xsd:float ;
         geo:long                  "-3.9639695"^^xsd:float .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_168/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/168/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-3.9639695499999865 39.67535109626273)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_165/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/165/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-7.544685519000654 42.99307958408111)"^^geosparql:wktLiteral .
 
-georesource:_162  a               geoes:EstacionPermanenteGPS ;
+georesource:162  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "162" ;
         geoes:altitudElipsoidal   "119.848"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -815,11 +815,11 @@ georesource:_162  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "162"^^xsd:int ;
         dc:title                  "Estación Permanente de Málaga"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_162/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/162/geometry> ;
         geo:lat                   "36.726112"^^xsd:float ;
         geo:long                  "-4.3935328"^^xsd:float .
 
-georesource:_175  a               geoes:EstacionPermanenteGPS ;
+georesource:175  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "175" ;
         geoes:altitudElipsoidal   "779.787"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -830,11 +830,11 @@ georesource:_175  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "175"^^xsd:int ;
         dc:title                  "Estación Permanente de Mota del Cuervo"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_175/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/175/geometry> ;
         geo:lat                   "39.50321"^^xsd:float ;
         geo:long                  "-2.870008"^^xsd:float .
 
-georesource:_147  a               geoes:EstacionPermanenteGPS ;
+georesource:147  a               geoes:EstacionPermanenteGPS ;
         rdfs:label                "147" ;
         geoes:altitudElipsoidal   "2291.137"^^xsd:float ;
         geoes:altitudOrtometrica  "0"^^xsd:int ;
@@ -845,23 +845,23 @@ georesource:_147  a               geoes:EstacionPermanenteGPS ;
         dc:created                "2014-06-17"^^xsd:date ;
         dc:identifier             "147"^^xsd:int ;
         dc:title                  "Estación Permanente de CCAN Las Cañadas"@es ;
-        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_147/geometry> ;
+        geosparql:hasGeometry     <http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/147/geometry> ;
         geo:lat                   "28.223448"^^xsd:float ;
         geo:long                  "-16.60686"^^xsd:float .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_185/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/185/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (0.3241576720000126 41.509458567461614)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_157/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/157/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-6.920299206000594 37.19997877694602)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_182/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/182/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-0.882164602999986 41.63339503652561)"^^geosparql:wktLiteral .
 
-<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/_154/geometry>
+<http://geo.linkeddata.es/recurso/EstacionPermanenteGPS/154/geometry>
         a                sf:Point ;
         geosparql:asWKT  "POINT (-8.813071536000079 42.183977370783126)"^^geosparql:wktLiteral .
 

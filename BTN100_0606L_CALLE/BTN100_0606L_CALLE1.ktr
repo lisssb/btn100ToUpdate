@@ -213,7 +213,7 @@
     <fileNameInField>N</fileNameInField>
     <fileNameField/>
     <file>
-      <name>&#47;home&#47;liss&#47;TFM&#47;btn100&#47;BTN100_0606L_CALLE&#47;BTN100_0606L_CALLE1</name>
+      <name>&#47;home&#47;liss&#47;TFM&#47;btn100&#47;ficheros&#47;BTN100_0606L_CALLE1</name>
       <is_command>N</is_command>
       <do_not_open_new_file_init>N</do_not_open_new_file_init>
       <extention>ttl</extention>
@@ -246,7 +246,7 @@
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
       <xloc>728</xloc>
-      <yloc>258</yloc>
+      <yloc>257</yloc>
       <draw>Y</draw>
       </GUI>
     </step>

@@ -167,13 +167,13 @@
 		<show>YES</show>
 		<column_shp>ETIQUETA</column_shp>
 		</columns>
-    <columns>
-    <column>type</column>
-    <prefix>rdf</prefix>
-    <uri>http:&#47;&#47;www.w3.org&#47;1999&#47;02&#47;22-rdf-syntax-ns#</uri>
-    <show>YES</show>
-    <column_shp>type</column_shp>
-    </columns>
+		<columns>
+		<column>type</column>
+		<prefix>rdf</prefix>
+		<uri>http:&#47;&#47;www.w3.org&#47;1999&#47;02&#47;22-rdf-syntax-ns#</uri>
+		<show>YES</show>
+		<column_shp>type</column_shp>
+		</columns>
 		</columns>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
@@ -294,7 +294,7 @@
     <fileNameInField>N</fileNameInField>
     <fileNameField/>
     <file>
-      <name>&#47;home&#47;liss&#47;TFM&#47;btn100&#47;BTN100_0603L_CARR_NAC&#47;BTN100_0603L_CARR_NAC</name>
+      <name>&#47;home&#47;liss&#47;TFM&#47;btn100&#47;ficheros&#47;BTN100_0603L_CARR_NAC</name>
       <is_command>N</is_command>
       <do_not_open_new_file_init>N</do_not_open_new_file_init>
       <extention>ttl</extention>
